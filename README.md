@@ -13,6 +13,7 @@ List of learning resources which I found interesting. It covers machine learning
 - [fastText][3]
 - [Apache MxNet: A Scalable Deep Learning Framework][4]
 - [tensor2tensor: A library for generalized sequence to sequence models][6]
+- [Spark-Deep-Learning][11]
 
 ### Datasets
 - [NLP Datasets][5]
@@ -27,4 +28,4 @@ List of learning resources which I found interesting. It covers machine learning
 [8]: https://classroom.udacity.com/courses/ud189
 [9]: https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
 [10]: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
-
+[11]: https://github.com/databricks/spark-deep-learning
