@@ -2,9 +2,11 @@
 List of learning resources which I found interesting. It covers machine learning, deep learning, distributed systems and other cool stuff.
 
 ### MOOCS
-- [CS224n: Natural Language Processing with Deep Learning][1]
-- [CS231n: Convolutional Neural Networks for Visual Recognition][2]
+- [Stanford CS224n: Natural Language Processing with Deep Learning][1]
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition][2]
 - [Udacity: Introduction to Parallel Programming CUDA][7]
+- [Udacity: Advanced Operating System (Distributed Systems)][8]
+- [University of Waterloo CS 436: Distributed Computer Systems][9]
 
 ### Libraries
 - [fastText][3]
@@ -21,3 +23,6 @@ List of learning resources which I found interesting. It covers machine learning
 [5]: https://github.com/niderhoff/nlp-datasets
 [6]: https://github.com/niderhoff/nlp-datasets
 [7]: https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
+[8]: https://classroom.udacity.com/courses/ud189
+[9]: https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
+
