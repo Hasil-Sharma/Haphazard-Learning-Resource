@@ -4,6 +4,7 @@ List of learning resources which I found interesting. It covers machine learning
 ### MOOCS
 - [Stanford CS224n: Natural Language Processing with Deep Learning][1]
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition][2]
+- [Stanford CS229: Machine Learning][10]
 - [Udacity: Introduction to Parallel Programming CUDA][7]
 - [Udacity: Advanced Operating System (Distributed Systems)][8]
 - [University of Waterloo CS 436: Distributed Computer Systems][9]
@@ -25,4 +26,5 @@ List of learning resources which I found interesting. It covers machine learning
 [7]: https://www.youtube.com/watch?v=F620ommtjqk&list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2
 [8]: https://classroom.udacity.com/courses/ud189
 [9]: https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
+[10]: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 
