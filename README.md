@@ -1,5 +1,5 @@
-# ML-DL-Learning-resources
-List of machine learning, deep learning and other resources
+# Haphazard Learning Resources
+List of learning resources which I found interesting. It covers machine learning, deep learning, distributed systems and other cool stuff.
 
 ### MOOCS
 - [CS224n: Natural Language Processing with Deep Learning][1]
