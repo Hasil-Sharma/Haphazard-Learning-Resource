@@ -1,6 +1,8 @@
 # Haphazard Learning Resources
 List of learning resources which I found interesting. It covers machine learning, deep learning, distributed systems and other cool stuff.
 
+### Blogs
+- [DataTau][12]
 ### MOOCS
 - [Stanford CS224n: Natural Language Processing with Deep Learning][1]
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition][2]
@@ -29,3 +31,4 @@ List of learning resources which I found interesting. It covers machine learning
 [9]: https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
 [10]: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 [11]: https://github.com/databricks/spark-deep-learning
+[12]: http://www.datatau.com/
