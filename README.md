@@ -3,6 +3,7 @@ List of learning resources which I found interesting. It covers machine learning
 
 ### Blogs
 - [DataTau][12]
+- [Scala School! (Twitter) - Building Distributed Services][13]
 ### MOOCS
 - [Stanford CS224n: Natural Language Processing with Deep Learning][1]
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition][2]
@@ -32,3 +33,4 @@ List of learning resources which I found interesting. It covers machine learning
 [10]: https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 [11]: https://github.com/databricks/spark-deep-learning
 [12]: http://www.datatau.com/
+[13]: https://twitter.github.io/scala_school/index.html
